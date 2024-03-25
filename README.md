@@ -9,7 +9,7 @@ Parts of the software that are functional at the moment:
 
 *-Read the encoders and represent the selected Frequency via the Oled's. Pushbuttons select 25KHz or 1MHz increments
 
-*-Translate the selected frequency to "2 out of 5 code" that the 618 M3 can work with, is sent to a serie of outputs of the MEGA (output 34 to 49).
+*-Translate the selected frequency to "2 out of 5 code" that the 618 M3 can work with, sent to a series of outputs of the MEGA (output 34 to 49).
 
 *-A transferswitch to select one of the two  frequency selectors.
 
